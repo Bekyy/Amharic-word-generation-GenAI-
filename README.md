@@ -6,7 +6,7 @@ This project focuses on generating antonyms for Amharic words using a fine-tuned
 
 ## 🚀 Features
 
-* Fine-tuned CodeT5 (or a similar pretrained model) for Amharic antonym generation.
+* Fine-tuned facebook/m2m100_418M for Amharic antonym generation.
 
 * Training on a structured dataset containing Amharic word pairs labeled as antonyms.
 
