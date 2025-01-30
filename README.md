@@ -67,9 +67,8 @@ antonym_generator = pipeline("text2text-generation", model=model, tokenizer=toke
 # Generate an antonym
 output = antonym_generator("ላይ")
 print(output[0]["generated_text"])
-## 📦 Installation & Dependencies
 ```
-
+## 📦 Installation & Dependencies
 To install the required dependencies:
 ```bash
 pip install transformers torch datasets
