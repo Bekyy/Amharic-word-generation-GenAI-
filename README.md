@@ -1,7 +1,5 @@
 # Amharic-word-generation-GenAI-
 
-# Amharic-word-generation-GenAI-
-
 ## 📌 Project Overview
 
 This project focuses on generating antonyms for Amharic words using a fine-tuned pretrained transformer model. The model is trained to learn word relationships, specifically antonyms, leveraging T5 (Text-to-Text Transfer Transformer) for sequence generation.
